@@ -42,6 +42,12 @@
 		icon: 'OrderedListOutlined',
 		component: './TodoList',
 	},
+	{
+		path: '/BT1',
+		name: 'BT1',
+		icon: 'OrderedListOutlined',
+		component: './BT1',
+	},
 
 	// DANH MUC HE THONG
 	// {
