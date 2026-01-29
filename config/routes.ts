@@ -48,6 +48,18 @@
 		icon: 'OrderedListOutlined',
 		component: './BT1',
 	},
+	{
+		path: '/BT2-quanlisanpham',
+		name: 'BT2-quanlisanpham',
+		icon: 'OrderedListOutlined',
+		component: './BT2/QuanLiSanPham/index',
+	},
+	{
+		path: '/BT2-quanlidonhang',
+		name: 'BT2-quanlidonhang',
+		icon: 'OrderedListOutlined',
+		component: './BT2/QuanLiDonHang/index',
+	},
 
 	// DANH MUC HE THONG
 	// {
